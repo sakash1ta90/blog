@@ -1,4 +1,5 @@
-baseURL = "https://sakash1ta90.github.io/blog"
+baseURL = "https://sakash1ta90.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "future-imperfect"
+hasCJKLanguage = true
