@@ -1,5 +1,4 @@
 baseURL = "https://sakash1ta90.github.io/"
-languageCode = "en-us"
+languageCode = "ja"
 title = "My New Hugo Site"
-theme = "future-imperfect"
-hasCJKLanguage = true
+theme = "hugo-theme-jane"
